@@ -35,5 +35,5 @@ https://counter-app-react-pearl.vercel.app/
 ## Contact Info 
 
 - 📩 Email: aeimanfayyaz2002@gmail.com
-- 📞 Contact no: +92 336 1136547
+
 
